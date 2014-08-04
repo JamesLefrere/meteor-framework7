@@ -1,0 +1,8 @@
+{
+  "name": "framework7",
+  "description": "Framework7 for Meteor",
+  "homepage": "https://github.com/JamesLefrere/meteor-framework7",
+  "author": "Thomas Furch, James Lefrère",
+  "version": "0.1.0",
+  "git": "https://github.com/JamesLefrere/meteor-framework7.git"
+}
